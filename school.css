@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.shape h1 {
+justify-content: center;
+background-color: gray;
+text-align: center;
+}
+.shape h2{
+    text-align: center;
+    background-color: gray;
+}
+
+.culture{
+width: 30%;
+background-color:white;
+margin-top: 2%;
+font-family: 'Times New Roman', Times, serif;
+margin-left: 5%;
+
+}
+
+.divide{
+    width: 30%;
+    background-color: white;
+    margin-top: 2%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5%;
+
+
+}
+
+
+.camp{
+    width: 30%;
+    background-color:white;
+    margin-top: 2%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5%;
+}
+.beans img{
+    width: 60%;
+    height: 580px;
+    margin-top: 2%;
+    position: absolute;
+    margin-left: 40%;
+}
+.family img{
+    width: 100%;
+}
+footer{
+    background-color: grey;
+    height: 50px;
+    text-align: center;
+}

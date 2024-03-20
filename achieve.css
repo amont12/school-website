@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color:white;
+
+}
+.image img{
+    width: 50%;
+    height: 10%;
+    border-top-right-radius: 30PX;
+    border-bottom-right-radius: 30PX;
+    margin-top: 2%;
+   
+}
+.shape{
+    position: absolute;
+    top: 25%;
+    margin-left: 55%;
+    color: black;
+}
+.picture img{
+    width: 50%;
+    height: 10%;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-top: 2%;
+   
+}
+.HEAD{
+    position: absolute;
+    top: 90%;
+    margin-left: 55%;
+    color: black;
+}
+.P{
+    width: 50%;
+}
+footer{
+    text-align: center;
+    background-color: grey;
+    height: 50px;
+}
