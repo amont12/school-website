@@ -1,0 +1,84 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color:white;
+}
+.university{
+margin-left: 10%;
+}
+.NAM{
+    color:black;
+    justify-content: center;
+    width: 100%;
+    margin: 0%;
+    margin-right: 10%;
+    padding: 1%;
+    
+}
+.arts{
+    width: 30%;
+    background-color:;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.social-science{
+    width: 30%;
+    background-color:white;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.science{
+    width: 30%;
+    background-color:white;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+
+.engineering{
+    width: 30%;
+    background-color:white;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.medicine{ width: 30%;
+    background-color: white;
+    margin-left: 3%;
+    margin-top: 2%;}
+.business{
+    width: 30%;
+    background-color:white;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.law{ width: 30%;
+    background-color: white;
+    margin-left: 3%;
+    margin-top: 2%;}
+.education{
+    width: 30%;
+    background-color:white;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.agriculture{
+    width: 30%;
+    background-color: white;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.rite{
+    width: 100%;
+    position: absolute;
+    top: 8%;
+    gap: 1px;
+    
+}
+.mid{
+    width: 100%;
+    height: 75%;
+    margin-left: 40%;
+    position: absolute;
+    top: 8.5%;
+}
